@@ -1,48 +1,99 @@
-# google-adk-course
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=230&section=header&text=Google%20ADK%20Learning%20Journey&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Learning%20to%20build%20intelligent%20AI%20agents&descAlignY=60&descSize=16" alt="Google ADK Learning Journey banner" width="100%" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents-7C3AED?style=for-the-badge" alt="Focus: AI Agents" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Status-Learning-16A34A?style=for-the-badge" alt="Status: Learning" />
-</p><h3 align="center">🚀 Exploring the world of AI agents, one experiment at a time.</h3>👋 About This Repository
-Welcome to my Google Agent Development Kit (ADK) Learning Journey!
+<div align="center">
 
-This repository is where I document my progress as I learn to design, build, and experiment with AI agents using Google's Agent Development Kit (ADK) and Python.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:512DA8&height=220&section=header&text=Google%20ADK%20Learning%20Journey&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Learning%20to%20build%20intelligent%20AI%20agents&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Google ADK Learning Journey banner" />
 
-Rather than keeping the learning theoretical, I'm using this space to practise concepts, write code, try out ideas, and gradually build projects. The repository will grow alongside my understanding.
-🎯 What I'm Working Towards
+### 🚀 Learning, experimenting, and building with AI agents
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-16A085?style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+<br />
+
+**A hands-on space where I turn concepts into experiments, code, and projects.**
+
+</div>
+
+---
+
+## 👋 About This Repository
+
+Welcome to my **Google Agent Development Kit (ADK) Learning Journey**!
+
+I created this repository to document my progress as I learn how to build AI agents using Google's Agent Development Kit. It is my personal workspace for practising concepts, trying out ideas, writing code, and developing practical agent-based applications.
+
+The repository will grow along with my learning. Some folders may contain small experiments, while others may evolve into complete projects.
+
+## 🎯 What I’m Working Towards
+
 - Understand how AI agents are designed and developed.
-- Gain practical experience with Google ADK.
+- Get hands-on experience with Google ADK and Python.
 - Experiment with tools, models, and agent workflows.
 - Explore how multiple agents can work together.
 - Build useful, real-world agent-based applications.
-- Improve by documenting experiments and learning from mistakes.
-🧰 Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat-square" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLMs-0F766E?style=flat-square" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>🗂️ Repository Layout
-The repository is organised into folders for experiments, practice code, and projects. Its structure may change as the learning journey progresses.
-.
+- Learn by documenting experiments, debugging, and improving my code.
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-16A085?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+## 📁 Repository Structure
+
+The repository is organised into folders for practice, experiments, notes, and projects. The structure may change as I explore new concepts.
+
+```text
+google-adk-learning/
+│
 ├── experiments/       # Small experiments and practice code
 ├── projects/          # Hands-on agent projects
 ├── notes/             # Personal notes and useful observations
-└── README.md
-🌱 Learning Philosophy
-Learn the idea. Build something small. Experiment. Break things. Understand why. Try again.
+└── README.md          # Repository overview
+```
 
-I'll use this repository to keep track of practical work, revisit concepts, and show how my projects evolve over time.
-📌 Repository Updates
-New code, experiments, notes, and projects will be added as I make progress. Some implementations may be simple learning exercises, while others may grow into complete projects.
-<p align="center">
-  <b>Built with curiosity, Python, and a passion for AI. 🤖</b>
-  <br />
-  <sub>One step at a time. One agent at a time. 🚀</sub>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1D4ED8,100:0F172A&height=100&section=footer" alt="Decorative footer banner" width="100%" />
-</p>
+## 🧪 Learning Approach
+
+| Step | What I do |
+|:---:|---|
+| **01** | Learn a concept and understand the idea behind it. |
+| **02** | Write a small implementation to practise it. |
+| **03** | Experiment, debug, and explore different approaches. |
+| **04** | Record useful notes and improve the implementation. |
+| **05** | Apply what I have learned in practical projects. |
+
+## 🌱 Learning Philosophy
+
+<div align="center">
+
+> **Learn the idea. Build something small. Experiment. Break things. Understand why. Try again.**
+
+</div>
+
+I believe the best way to learn is by building. This repository is a record of that process — including the experiments, mistakes, improvements, and small wins along the way.
+
+## 📌 Repository Updates
+
+New code, experiments, notes, and projects will be added as I make progress. The goal is to keep this repository as a useful record of my practical work and how my understanding of AI agents develops over time.
+
+---
+
+<div align="center">
+
+### 🤖 Built with curiosity, Python, and a passion for AI.
+
+*One step at a time. One agent at a time. 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512DA8,50:243B55,100:141E30&height=120&section=footer" width="100%" alt="Decorative footer banner" />
+
+</div>
